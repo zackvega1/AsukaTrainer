@@ -1,0 +1,33 @@
+DISCLAIMER: I AM A ROBOTICS MAJOR NOT A CS MAJOR THIS CODE IS VERY UGLY AND NOT GOOD 
+
+Requirements:
+Python
+Pygame
+
+How to Run:
+
+> Go to this directory in a terminal
+> Use the Command 
+>> python main.py [put your buttons here]
+
+
+For the hitbox the button layout is 
+2 3 5 4
+0 1 [the last 2 buttons(the triggers) will not work with this code]
+
+EXAMPLE:
+if you are using a hitbox and have your buttons as 
+
+Punch Slash HeavySlash
+Kick
+
+you would use the command 
+
+python main.py 2 0 3 5
+
+
+This will start the program
+
+To cast spells do 236 + a button 
+
+To change decks do 22 + P K or S respectively
